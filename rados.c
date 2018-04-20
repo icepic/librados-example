@@ -1,6 +1,6 @@
-/*
+/* (C) 2018 Janne Johansson 
  * This is cut-n-pasted from ceph.com API programming
- * examples. Any lines I've added is BSD licensed as
+ * examples. Any lines I've added are BSD licensed as
  * per the LICENSE file.
  */
 
